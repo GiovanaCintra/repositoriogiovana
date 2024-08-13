@@ -1,6 +1,6 @@
 # repositoriogiovana
 
-# *Olá, boas vindas* 
+# *Olá, bem vindo* 
 
 Meu nome é Giovana,
 Estou estudando na Alura, sou aluno.
